@@ -1,6 +1,16 @@
 .illus {
     height: 20px; 
     border-right-style: solid; 
+    border-right-color: white;
+    position: absolute; 
+    left: 20px; 
+    top: 40px;
+}
+
+.item {
+    height: 20px; 
+    border-right-style: solid; 
+    border-right-color: white;
     position: absolute; 
     left: 20px; 
     top: 40px;
